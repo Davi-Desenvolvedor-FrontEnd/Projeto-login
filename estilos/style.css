@@ -7,7 +7,6 @@
 }
 
 html, body {
-    background-color: #602c8200;
     width: 100vw;
     height: 100vh;
 }
@@ -59,7 +58,7 @@ div#formulario > p {
 }
 
 form > div.campo {
-    background-color: #5f2c82;
+    background-color: #602c8200;
     border-radius: 10px;
     display: block;
     width: 100%;
@@ -72,7 +71,7 @@ div.campo > label {
 }
 
 div.campo > span {
-    color: white;
+    color: rgb(0, 0, 0);
     width: 30px;
     padding: 5px;
     font-size: 1.8em;
