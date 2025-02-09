@@ -58,8 +58,8 @@ div#formulario > p {
 }
 
 form > div.campo {
-    background-color: #602c8200;
     border-radius: 10px;
+    border: none;
     display: block;
     width: 100%;
     height: 40px;
@@ -71,14 +71,14 @@ div.campo > label {
 }
 
 div.campo > span {
-    color: rgb(0, 0, 0);
-    width: 30px;
+    color: #000;
+    width: 35px;
     padding: 5px;
     font-size: 1.8em;
 }
 
 div.campo > input {
-    background-color: #49a09d;
+    background-color: #5f2c82;
     height: 100%;
     width: calc(100% - 48px);
     border-top-right-radius: 10px;
