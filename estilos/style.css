@@ -55,7 +55,7 @@ div#formulario > h1 {
 
 div#formulario > p {
     font-size: .9em;
-    margin-bottom: 15px;
+    margin-bottom: 1px;
 }
 
 form > div.campo {
@@ -75,18 +75,18 @@ div.campo > span {
     color: white;
     width: 30px;
     padding: 5px;
-    font-size: 2em;
+    font-size: 1.8em;
 }
 
 div.campo > input {
     background-color: #49a09d;
     height: 100%;
-    width: calc(100% - 50px);
-    transform: translate(1px, -11px);
+    width: calc(100% - 43px);
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     padding: 0 2.4px;
     border: 0px;
+    transform: translate(40px, -47px);
 }
 
 div.campo > input::-webkit-input-placeholder {
